@@ -11,6 +11,11 @@ A simple **web-based To-Do List application** built with **HTML, CSS, and JavaSc
 
 ---
 
+## 📸 App Preview  
+![To-Do List Screenshot](https://github.com/sanidhyasomani47-commits/ToDoList-App-html-css-js/blob/main/todoo.scr.png)  
+
+---
+
 ## 📂 File Structure  
 - **`index.html`** — Main HTML file for the app interface  
 - **`style.css`** — Stylesheet for layout and design  
